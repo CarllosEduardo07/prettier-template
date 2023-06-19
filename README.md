@@ -1,7 +1,7 @@
 
 # Instalar e Configurar o Prettier
 
-1. Instale o `prettier` no projeto:
+1. Instale o `prettier` no projeto: [Site do Prittier](https://prettier.io/docs/en/index.html)
 
    - ```bash
      npm i -D prettier
